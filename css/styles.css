@@ -1,0 +1,13 @@
+.jumbotron{
+  background-image: url(../img/beach.jpg);
+  background-size: 30%;
+  color: #000;
+}
+body{
+  background-image: url(../img/reggae.jpg);
+  background-size: 20%;
+}
+.well{
+  background-image: url(../img/starbucks.jpg);
+  background-size: 40%;
+}
